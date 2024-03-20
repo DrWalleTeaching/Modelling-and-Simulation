@@ -1,3 +1,5 @@
-# ICM_activity
+# Modelling and Simulation
 
-Jupyter notebooks to support the ICM lectures.
+Educational Activity for Google Collab. 
+
+1) Open the Notebook
